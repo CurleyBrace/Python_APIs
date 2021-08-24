@@ -4,10 +4,7 @@ import jwt, datetime
 from BookModel import *
 from settings import *
 
-
 books = Book.get_all_books()
-
-DEFAULT_PAGE_LIMIT = 3
 
 app.config['SECRET_KEY'] = 'meow'
 
