@@ -9,10 +9,10 @@ Below are descriptions of projects I've worked on along with code snippets and n
 ## API Project Examples
 * Bookstore API
   * [Creating the API Calls to edit data](#book-api-calls)
-	* [Creating the Model](#book-model-code)
+  * [Creating the Model](#book-model-code)
 * Online Video API
   * [Creating the API Calls to edit data](#video-api-calls)
-	* [Creating the Model](#video-model-layout)
+  * [Creating the Model](#video-model-layout)
 
 
 ### [Book API Calls](https://github.com/CurleyT/Python_APIs/blob/main/Flask_SQLAlchemy/Book_API/main.py)
